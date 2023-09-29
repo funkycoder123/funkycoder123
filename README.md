@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @funkycoder123
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning javascript
-- 💞️ I’m forward to making my on projects .
-- 📫 How to reach me funkybot2004@gmail.com
-- a beginer with great ideas.
+- 💞️ I'm looking forward to making my own projects.
+- 📫 How to reach me luckychiemerie1@gmail.com
+a beginning with great ideas.
 
 <!---
 funkycoder123/funkycoder123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
