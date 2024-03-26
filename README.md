@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @funkycoder123
-- 👀 I’m interested in coding 
+- 👋 Hi, I’m @luckycoder123
+- 👀 I’m interested in coding. 
 - 🌱 I’m currently learning javascript
 - 💞️ I'm looking forward to making my own projects.
 - 📫 How to reach me luckychiemerie1@gmail.com
