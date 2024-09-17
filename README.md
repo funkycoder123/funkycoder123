@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @luckycoder123
-- 👀 I’m interested in coding. 
-- 🌱 I’m currently learning javascript
-- 💞️ I'm looking forward to making my own projects.
+- 👋 Hi, I’m @lucky_coder
+- 👀 I’m love in coding. 
+- 🌱 I’m currently learning javascript..
+- 💞️ I'm looking forward to making my own projects...
 - 📫 How to reach me luckychiemerie1@gmail.com
 a beginning with great ideas.
 
